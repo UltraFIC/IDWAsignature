@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Somos el mejor equipo <3
 Archivo modificado 2
-=======
 Archivo modificado
->>>>>>> parent of 7f142d5... Update Prueba.txt
