@@ -9,6 +9,7 @@
     MOV ah,3ch
     MOV bl,8h
     add AH,BL
+    add AX,BL
 
     
     
