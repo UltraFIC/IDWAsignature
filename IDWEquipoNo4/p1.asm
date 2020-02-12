@@ -12,6 +12,9 @@
     add AX,BL
 
     
+    --------------
+    ------------
+    ---
     
     mov ax,4c00h ;finalizacion
     int 21h
