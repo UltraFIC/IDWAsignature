@@ -1,2 +1,4 @@
 ﻿Esto es una prueba
 ---archivo modificado
+
+rama2
