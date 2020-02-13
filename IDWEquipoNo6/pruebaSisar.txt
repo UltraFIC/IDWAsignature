@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Esta es una pruba de expo
 Me equivoque, era prueba, lo siento.
 Esta es una prueba de expo
 Escriba bien compita
+=======
+Esta es una pruba de expo
+>>>>>>> parent of 77b1996... Correccion
